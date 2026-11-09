@@ -13,17 +13,14 @@ TeamGOL은 중고거래마켓내 골프(필드/스크린) 모임을 위한 팀�
 
 > 설치하기 전에 안내드립니다
 
-- OCR(Optical Character Recognition) 기능을 활용하여 구현되었으며, 내부적으로 Gemini 를 사용하고 있습니다. 때문에 본인의 Google 계정을 이용하여 API Key를 발급받아야 합니다. 무료티어 이용자들도 이용이 가능하며, API Key발급은 아래와 같이 진행하면 됩니다.
+- Google의 OCR(Optical Character Recognition) 기능이 필수이므로 아래의 안내를 참고하여 본인의 Google 계정으로 API Key를 먼저 발급받아야 합니다. (무료 이용 가능)
 
-> 아래 방법을 통한 Google API Key 발급 및 앱 내부 등록 진행 $\color{red}{\text{(최초 1회만 진행)}}$.
+> Google API Key 발급/등록 $\color{red}{\text{(최초 1회만 진행, 타인에게 API Key 공유 절대 금지!!)}}$.
 
-- Step 1. 앱 실행 후 우측 상단의 "설정" 버튼을 누름
-- Step 2. "Google AI Studio에서 키 발급받기" 누름
-- Step 3. "API 키 만들기"를 누르고, 키 이름을 임의로 정한 후 "키 만들기"를 눌러 생성.
-- Step 4. API 키 세부정보에서 아래 붉은색 부분을 눌러 "복사" 후 앱으로 이동하여 붙여넣기 후 저장.
-
-> [!CAUTION]
-> $\color{red}{\text{위에서 발급된 API Key는 타인 공유 절대 금지!!}}$
+- Step 1. 앱 실행 후 우측 상단의 "설정" 버튼 -> "Google AI Studio에서 키 발급받기" 누름
+<img src="./images/1-1.jpeg" width="50%">
+- Step 2. "API 키 만들기"를 누르고, 키 이름을 임의로 정한 후 "키 만들기"를 눌러 생성.
+- Step 3. API 키 세부정보에서 아래 붉은색 부분을 눌러 "복사" 후 앱으로 이동하여 붙여넣기 후 저장.
 
 ## 3. 설치 및 실행
 
