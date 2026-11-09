@@ -14,7 +14,9 @@ TeamGOL은 중고거래마켓내 골프(필드/스크린) 모임을 위한 팀�
 > 설치하기 전에 안내드립니다
 
 - OCR(Optical Character Recognition) 기능을 활용하여 구현되었으며, 내부적으로 Gemini 를 사용하고 있습니다. 때문에 본인의 Google 계정을 이용하여 API Key를 발급받아야 합니다. 무료티어 이용자들도 이용이 가능하며, API Key발급은 아래와 같이 진행하면 됩니다. 참고로 발급된 API Key는 휴대폰에 저장이 되오니 참고해주세요. 
-<span style="color:red">발급 받으신 key는 타인에게 절대 공유하시면 안됩니다</span>
+
+> [!CAUTION]
+> 발급받으신 API Key는 타인에게 절대 공유하시면 안 됩니다.
 
 > 아래 방법을 통한 Google API Key 발급 및 앱 내부 등록 진행(최초 1회만 진행).
 
