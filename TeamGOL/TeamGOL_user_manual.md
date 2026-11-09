@@ -18,11 +18,11 @@ TeamGOL은 중고거래마켓내 골프(필드/스크린) 모임을 위한 팀�
 > Google API Key 발급/등록 $\color{red}{\text{(최초 1회만 진행, 타인에게 API Key 공유 절대 금지!!)}}$.
 
 - Step 1. 앱 실행 후 우측 상단의 "설정" 버튼 -> "Google AI Studio에서 키 발급받기" 누름
-<img src="./images/1-1.png" width="30%" style="margin-left: 50px;">
+<img src="./images/1-1.png" width="30%" style="margin-left: 150px;">
 
 - Step 2. 아래 화면에서 "API 키 만들기"를 누르고, 키 이름을 임의로 정한 후 "키 만들기"를 눌러 생성. 
 (Google AI Studio에 처음 접속하시는 분들은 일부 동의를 해야 이용가능하며, 필수 동의만 진행하시면 됩니다.)
-<img src="./images/1-2.png" width="30%" style="margin-left: 50px;">
+<img src="./images/1-2.png" width="30%" style="margin-left: 150px;">
 <img src="./images/1-3.png" width="30%" style="margin-left: 50px;">
 <img src="./images/1-4.png" width="30%" style="margin-left: 50px;">
 <img src="./images/1-5.png" width="30%" style="margin-left: 50px;">
