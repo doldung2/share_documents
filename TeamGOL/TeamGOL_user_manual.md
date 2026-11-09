@@ -17,19 +17,28 @@ TeamGOL은 중고거래마켓내 골프(필드/스크린) 모임을 위한 팀�
 
 > Google API Key 발급/등록 $\color{red}{\text{(최초 1회만 진행, 타인에게 API Key 공유 절대 금지!!)}}$.
 
-- Step 1. 앱 실행 후 우측 상단의 "설정" 버튼 -> "Google AI Studio에서 키 발급받기" 누름
+Step 1. 앱 실행 후 우측 상단의 "설정" 버튼 -> "Google AI Studio에서 키 발급받기" 누름
 <img src="./images/1-1.png" width="30%" style="margin-left: 150px;">
 
-- Step 2. 아래 화면에서 "API 키 만들기"를 누르고, 키 이름을 임의로 정한 후 "키 만들기"를 눌러 생성. 
+Step 2. 아래 화면에서 "API 키 만들기"를 누르고, 키 이름을 임의로 정한 후 "키 만들기"를 눌러 생성. 
 (Google AI Studio에 처음 접속하시는 분들은 일부 동의를 해야 이용가능하며, 필수 동의만 진행하시면 됩니다.)
+
+<p>좌측 상단의 ☰ 메뉴(아래 붉은 영역)를 누른다</p>
 <img src="./images/1-2.png" width="30%" style="margin-left: 150px;">
+
+<p>메뉴 하단에 열쇠 모양의 버튼을 누른다</p>
 <img src="./images/1-3.png" width="30%" style="margin-left: 50px;">
+
+<p>우측 상단의 "API Key 만들기" 버튼을 누른다</p>
 <img src="./images/1-4.png" width="30%" style="margin-left: 50px;">
+
+<p>키 이름은 임의로 지정, 프로젝트는 그대로 두고 "키 만들기" 버튼을 누른다</p>
 <img src="./images/1-5.png" width="30%" style="margin-left: 50px;">
+
+<p>아래 붉은색 버튼을 눌러 생성된 key를 복사한다</p>
 <img src="./images/1-6.png" width="30%" style="margin-left: 50px;">
 
-
-- Step 3. API 키 세부정보에서 아래 붉은색 부분을 눌러 "복사" 후 앱으로 이동하여 붙여넣기 후 저장.
+Step 3. 다시 TeamGOL앱으로 돌아와 "API 키" 부분에 복사한 key를 붙여넣고, "저장" 버튼을 누른다
 <img src="./images/1-7.png" width="30%" style="margin-left: 50px;">
 
 ## 3. 설치 및 실행
